@@ -5,6 +5,7 @@
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
+![1664071385581](https://github.com/rookiey22/rookiey22.github.io/assets/79635586/6ecdd724-d5df-4855-93d5-2e3aa4ad5fcb)
 
 [User Manual 👉](_doc/Manual.md)
 --------------------------------------------------
